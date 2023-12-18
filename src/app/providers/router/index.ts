@@ -1,1 +1,1 @@
-export * as AppRouter from "./ui/AppRouter";
+export * as AppRouter from './ui/AppRouter';

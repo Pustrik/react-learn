@@ -1,20 +1,17 @@
 :root {
-  --font-family-main: Consolas, "Gill Sans", Serif;
+  --font-family-main: consolas, "Gill Sans", serif;
   --font-size-m: 16px;
   --font-line-m: 24px;
   --font-m: var(--font-size-m) / var(--font-line-m) var(--font-family-main);
-
   --font-size-l: 20px;
   --font-line-l: 28px;
   --font-l: var(--font-size-l) / var(--font-line-l) var(--font-family-main);
-
   --font-size-xl: 24px;
   --font-line-xl: 32px;
   --font-xl: var(--font-size-xl) / var(--font-line-xl) var(--font-family-main);
 
-  //Sizes
+  // Sizes
   --navbar-height: 50px;
-
   --sidebar-width: 300px;
   --sidebar-width-collapsed: 70px;
 }
